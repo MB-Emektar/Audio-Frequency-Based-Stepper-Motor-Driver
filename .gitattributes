@@ -1,3 +1,3 @@
 * linguist-vendored
 *.html linguist-vendored=false
-*.s linguist-detectable=true
+*.asm linguist-detectable=true
